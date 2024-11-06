@@ -1,4 +1,4 @@
-# NLP
+# Travelers Classification with TF-IDF
 This repo is for Xinyu Hou's NLP final paper
 Title: Classification of Business and Leisure Travelers in Hotel Reviews: A Comparative Analysis Using TFIDF with Logistic Regressionand Support Vector Machine
 
